@@ -22,3 +22,5 @@ resource "aws_instance" "app_server" {
 resource "aws_vpc" "prodVPC" {
   cidr_block = "10.0.0.0/16"
 }
+
+#Finish
