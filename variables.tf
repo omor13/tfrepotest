@@ -4,5 +4,5 @@ variable "InstanceType" {
 }
 
 variable "instance_name" {
-    default = "NewAppServer"
+    default = "WebServer"
 }
